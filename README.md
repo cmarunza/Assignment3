@@ -1,6 +1,11 @@
 # Assignment3
 Christy Marunza (49131270) & Travis Pryor (49132635)
 
+Assignment Instructions 
+
+[Assignment-3 (1).docx](https://github.com/user-attachments/files/18213141/Assignment-3.1.docx)
+
+
 Output 1: 
 
 /Users/christy/Library/Java/JavaVirtualMachines/openjdk-22.0.2/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52022:/Applications/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/christy/Documents/Data Structures/ASSIGNMENT3/out/production/ASSIGNMENT3 Main
