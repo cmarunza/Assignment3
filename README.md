@@ -1,9 +1,10 @@
-[amazon-product-data (4).csv](https://github.com/user-attachments/files/18213200/amazon-product-data.4.csv)# Assignment3
+Assignment 3
 Christy Marunza (49131270) & Travis Pryor (49132635)
 
 Assignment Instructions 
 
 [Assignment-3 (1).docx](https://github.com/user-attachments/files/18213141/Assignment-3.1.docx)
+[amazon-product-data (4).csv](https://github.com/user-attachments/files/18213200/amazon-product-data.4.csv)
 
 
 
